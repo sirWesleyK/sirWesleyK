@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Data Analysis Project, ML and AI projects
 - 📫 How to reach me ...wesleykanyama40@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... The last time l tortured the data enough, it confessed😂
 
 <!---
 sirWesleyK/sirWesleyK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
