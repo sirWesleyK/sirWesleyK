@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sirWesleyK
 - 👀 Give me your data, l will give information in return
-- 🌱 I’m currently learning ... Data Science
+-  Data Sciencist in the making
 - 💞️ I’m looking to collaborate on ...Data Analysis Project, ML and AI projects
 - 📫 How to reach me ...wesleykanyama40@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... The last time l tortured the data enough, it confessed😂
 
 <!---
